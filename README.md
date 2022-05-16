@@ -24,7 +24,7 @@
 
 ### 3. [Git](http://git-scm.com/)
 > 분산 버전 관리 시스템
-- 소스코드를 작성했으면 변경관리는 필수 있니다. CI/CD에 시작이 되는 Code repository에 대해서 준비해야 합니다. 프로젝트에 변경관리는 Git으로 통일 되는 것 같습니다.
+- 변경관리. CI/CD에 시작이 되는 Code repository. 프로젝트에 변경관리는 Git으로 통일.
 - [Git 한국어 Book](https://git-scm.com/book/ko/v2)
 
 ### 4. [Git Flow](https://github.com/nvie/gitflow)
@@ -36,28 +36,41 @@
 ### 6. ASP.NET WebAPI
 
 ### 7. Nuget
+> Microsoft 개발 확장으로 공개한 소스 패키지 관리자
 
 ### 8. Docker
+Bare Metal > VM > Docker   
 
 ### 9. Docker compose
 
+
 ### 10. Dapr
+Sidecar
 
 ### 11. Envoy
+Sidecar
 
 ### 12. Vault
+Key
 
 ### 13. MongoDB
+document DB 
+(vs RedisJson)
 
 ### 14. Kafka
+Event Hub, Message queue
 
 ### 15. Consul
+Cloud Network
 
 ### 16. Nomad
+K8S 유사, simple is best 느낌
 
 ### 17. .editconfig
 
-### 18. k8s
+
+### 18. k8s 
+Cloud orchestrator
 
 
 
