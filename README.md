@@ -41,7 +41,7 @@
 ### 8. Docker
 Bare Metal > VM > Docker   
 
-### 9. Docker compose
+### 9. Docker compose / Docker swarm
 
 
 ### 10. Dapr
